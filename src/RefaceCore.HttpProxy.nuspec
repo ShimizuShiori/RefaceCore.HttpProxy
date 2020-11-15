@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>RefaceCore.HttpProxy</id>
+    <version>1.3.2.1</version>
+    <title>RefaceCore.HttpProxy</title>
+    <authors>Felix</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>RefaceCore.HttpProxy</description>
+  </metadata>
+  <files>
+    <file src="RefaceCore.HttpProxy.xml"/>
+  </files>
+</package>
