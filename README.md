@@ -38,4 +38,4 @@ public class FooService : IFooService
 ```
 
 更多阅读
-* (Quick Start)[docs/QuickStart.md]
+* [Quick Start](docs/QuickStart.md)
